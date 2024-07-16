@@ -10,8 +10,8 @@ Th credentials to login are:
 
 User login:
 email: user@gmail.com
-password: 12345
+password: JohnDoe
 
 Admin login:
 email: admin@gmail.com
-password: 12345
+password: JohnDoe
